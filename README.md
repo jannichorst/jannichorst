@@ -2,7 +2,7 @@
 
 **Data Scientist / Filmmaker / Creator**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[MLTips](https://www.youtube.com/@mltips) to more than 400k subscribers.
+I'm a Data Scientist & Filmmaker with a passion for story telling. During the day I'm working for one of the biggest analytical software companies and during the night I tinker on my own code projects and edit videos. I believe in the power of endless curiosity and the art of breaking down complex things into approachable pieces. This often then results in videos I publish over at my YouTube channel "[MLTips](https://www.youtube.com/@mltips)".
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
