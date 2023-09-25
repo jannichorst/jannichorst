@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jannic Horst
+# 📊 Jannic Horst
 
 **Data Scientist / Filmmaker / Creator**
 
