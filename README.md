@@ -1,6 +1,6 @@
 # 📊 Jannic Horst
 
-**Data Scientist / Filmmaker / Creator**
+**Data Scientist / Filmmaker**
 
 I'm a data scientist & filmmaker with a passion for story telling. During the day I'm working for one of the biggest analytical software companies and during the night I tinker on my own code projects and edit videos. I believe in the power of endless curiosity and the art of breaking down complex things into approachable pieces. This often then results in videos I publish over at my YouTube channel "[MLTips](https://www.youtube.com/@mltips)".
 
