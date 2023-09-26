@@ -51,13 +51,6 @@ I'm a data scientist & filmmaker with a passion for story telling. During the da
 
 #
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannichorst&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jannichorst&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 Jannics Coding Journey</h3></summary>
