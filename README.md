@@ -1,4 +1,4 @@
-# 📊 Jannic Horst
+# Hi, 👋 I'm Jannic
 
 **Data Scientist / Filmmaker**
 
