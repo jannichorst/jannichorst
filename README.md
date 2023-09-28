@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jannic
+# Hi, I'm Jannic 👋
 
 **Data Scientist / Filmmaker**
 
