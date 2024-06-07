@@ -2,7 +2,7 @@
 
 **Data Scientist / Filmmaker**
 
-I'm a data scientist & filmmaker with a passion for story telling. During the day I'm working for one of the biggest analytical software companies and during the night I tinker on my own code projects and edit videos. I believe in the power of endless curiosity and the art of breaking down complex things into approachable pieces. This often then results in videos I publish over at my YouTube channel "[MLTips](https://www.youtube.com/@mltips)".
+I'm a data scientist & filmmaker with a passion for story telling. During the day I'm working for one of the biggest analytical software companies and during the night I tinker on my own code projects and edit videos. I believe in the power of endless curiosity and the art of breaking down complex things into approachable pieces. This often then results in videos I publish over at my YouTube channel "[Analytiq](https://www.youtube.com/@analytiq_)".
 
    <p align="left">
       <a href="https://www.youtube.com/@mltips?sub_confirmation=1">
@@ -47,7 +47,7 @@ I'm a data scientist & filmmaker with a passion for story telling. During the da
 [![Why your ML model is in DEBT!!!](https://ytcards.demolab.com/?id=YZZB4vlibT8&title=Why+your+ML+model+is+in+DEBT%21%21%21&lang=en&timestamp=1640252074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=86 "Why your ML model is in DEBT!!!")](https://www.youtube.com/watch?v=YZZB4vlibT8)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@mltips?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@analytiq_?sub_confirmation=1)
 
 #
 
