@@ -55,7 +55,7 @@ I'm a data scientist & filmmaker with a passion for story telling. During the da
 
 <details>
  <summary><h3>👨‍💻 Jannics Coding Journey</h3></summary>
-   [TODO]
+   [Still a TODO]
 
 [youtube]: https://www.youtube.com/@mltips
 [twitter]: https://www.twitter.com/JannicHorst
